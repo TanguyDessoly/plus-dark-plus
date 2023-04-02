@@ -1,0 +1,19 @@
+Primary : 
+    Orange #b34608
+        StrongerVersion #cc4b00
+
+Secondary : 
+    Green #5dc07b
+        StrongerVersion #46df74 
+            EvenStronger #43eb76
+    
+Text :
+    Default whitish color: #d6cdc8
+
+Colors Override :
+    Blue : #00aaff
+    Yellow #fde05c
+
+
+
+Default vs code blue (I believe : 75beff)

@@ -1,0 +1,52 @@
+{
+  "name": "plus-dark-plus",
+  "displayName": "+Dark+",
+  "publisher": "TanguyDessoly",
+  "author": {
+    "name": "Tanguy Dessoly",
+    "email": "pro.tanguydessoly@gmail.com",
+		"url": "https://www.linkedin.com/in/tanguydessoly/"
+  },
+  "description": "The even better darker VSCode default color theme, with improved syntax highlight and aesthetics ! It also is a great base for your own custom theme, the config file is sorted and has the fullest choice of settings.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TanguyDessoly/plus-dark-plus"
+  },
+	"icon": "icons/+Dark+.png",
+  "homepage": "https://github.com/TanguyDessoly/plus-dark-plus",
+  "bugs": "None, but you can open an issue on the GitHub repo if you want to",
+  "keywords": [
+    "dark",
+    "theme",
+    "vscode",
+    "color",
+    "syntax",
+    "highlight",
+    "aesthetics",
+    "base",
+    "custom",
+    "config",
+    "file",
+    "sorted",
+    "default",
+    "choice",
+    "settings"
+  ],
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "+Dark+",
+        "uiTheme": "vs-dark",
+        "path": "./themes/+Dark+-color-theme.json"
+      }
+    ]
+  }
+}
