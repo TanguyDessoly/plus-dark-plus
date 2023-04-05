@@ -79,12 +79,12 @@
 		//// "dropdown.listBackground": "#ff0000",
 
 		
-		"diffEditor.insertedLineBackground": "#46df740c",
-		"diffEditor.removedLineBackground": "#b346080c",
-		"diffEditorGutter.insertedLineBackground": "#46df740c",
-		"diffEditorGutter.removedLineBackground": "#b346080c",
-		"diffEditorOverview.insertedForeground": "#46df740c",
-		"diffEditorOverview.removedForeground": "#b346080c",
+		"diffEditor.insertedLineBackground": "#46df74",
+		"diffEditor.removedLineBackground": "#b34608",
+		"diffEditorGutter.insertedLineBackground": "#46df74",
+		"diffEditorGutter.removedLineBackground": "#b34608",
+		"diffEditorOverview.insertedForeground": "#46df74",
+		"diffEditorOverview.removedForeground": "#b34608",
 		"diffEditor.insertedTextBackground": "#79943a33",
 		"diffEditor.insertedTextBorder": "#864c4c",
 		
