@@ -36,7 +36,7 @@
 
 
 ## My Links
-<a href="https://www.linkedin.com/tanguydessoly" rel="nofollow noreferrer">
+<a href="https://www.linkedin.com/in/tanguydessoly" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" style='filter: saturate(0) contrast(4) ' alt="linkedin"> LinkedIn
 </a> &nbsp; 
 <a href="https://github.com/tanguydessoly" rel="nofollow noreferrer">
