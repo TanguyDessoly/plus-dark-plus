@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="" rel="noopener">
-	<img src="./icons/+Dark+.png" alt="+Dark+ logo"></a>
+	<img src="https://raw.githubusercontent.com/TanguyDessoly/plus-dark-plus/main/icons/+Dark+.png" alt="+Dark+ logo"></a>
 </p>
 <h3 align="center">+An even darker theme for Visual Studio Code+</h3></br>
 <h3 align="center">With improved syntax highlight and aesthetics !</br> It also is a great base for your own custom theme, the config file is sorted and has the fullest choice of settings.</h3>
@@ -11,11 +11,11 @@
 </br>
 <div align="center">
 	<h2 align="center">Un-commited new JavaScript project example :</h2>
-	<img src="./examples/JavaScript.png">
+	<img src="https://raw.githubusercontent.com/TanguyDessoly/plus-dark-plus/main/examples/JavaScript.png">
 </div>
 <div align="center">
 	<h2 align="center">Debugger view on a bad python program :</h2>
-	<img src="./examples/Python-With-Errors.png">
+	<img src="https://raw.githubusercontent.com/TanguyDessoly/plus-dark-plus/main/examples/Python-With-Errors.png">
 </div>
 </br>
 </br>
