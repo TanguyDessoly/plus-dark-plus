@@ -79,8 +79,8 @@
 		//// "dropdown.listBackground": "#ff0000",
 
 		
-		"diffEditor.insertedLineBackground": "#46df749d",
-		"diffEditor.removedLineBackground": "#b347089d",
+		"diffEditor.insertedLineBackground": "#46df7465",
+		"diffEditor.removedLineBackground": "#b3470865",
 		"diffEditorGutter.insertedLineBackground": "#46df74",
 		"diffEditorGutter.removedLineBackground": "#b34608",
 		"diffEditorOverview.insertedForeground": "#46df74",
